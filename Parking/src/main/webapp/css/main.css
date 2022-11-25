@@ -1,0 +1,211 @@
+@charset "utf-8";
+
+.header {
+   background-color: #F8C9E5;
+   position: relative;
+   width: 1000px;
+   height:150px;
+   margin: 0 auto;
+}
+
+.nav {
+   background-color: #F3CDF7;
+   height: 80px;
+   padding-top: 10px;
+}
+
+.nav a {
+   font-size: 15px;
+   color: white;
+   font-weight: bold;
+   text-decoration: none;
+   font-family: dotum;
+   margin-left: 30px;
+}
+
+.content_div {
+   position: relative;
+   width: 1000px;
+   margin: 0 auto;
+}
+
+.aside {
+   background-color: #F8E0F1;
+   position: absolute;
+   top: 0;
+   right: 0;
+   width: 43%;
+   height: 570;
+}
+
+.footer {
+   background-color: #F8C9E5;
+   position: relative;
+   width: 1000px;
+   height:100px;
+   margin: 0 auto;   
+}
+
+.img {
+   width: 315px;
+   height: 450px;
+}
+
+.s4_table td {
+   border: solid gray;
+}
+
+
+
+.content_div_login {
+   background-color: gray;
+   position: relative;
+   width: 500px;
+   height: 450px;
+   margin: 50px auto;
+}
+
+
+.main-title {
+   color: white;       
+   font-size: 50pt;     
+   font-weight: bold;  
+   margin-top: 30px;    
+   margin-bottom: 30px; 
+}
+
+
+
+.id-table {
+   height: 40px;
+   width: 430px;   
+   border:solid 4px white;
+   margin-top: 1%
+}
+
+
+.id-pw-input {
+   height: 40px;
+   width: 410px;
+   font-size: 15px;
+}
+
+
+.login_btn_table {
+   height: 40px;
+   width: 430px;
+   margin-top: 1%
+}
+
+
+
+.login_btn {
+   height: 50px;
+   width: 430px;
+   background-color: black;
+   color: white;
+   font-size: 20pt;
+   font-weight: bold;
+   border: solid 1px black;
+   cursor: pointer;
+}
+
+
+.menu_line {
+   height: 0px;
+   width: 430px;   
+   border: solid 1px white;
+   margin-top: 2%;
+}
+
+
+.login_sub_menu {
+   height: 50px;
+   margin-top: 1%
+}
+
+
+.login_sub_menu a {
+   text-decoration: none;
+   color: white;
+}
+
+
+
+.content_div_signUp {
+   background-color: gray;
+   position: relative;
+   width: 1000px;   
+   margin: 10px auto;
+}
+
+
+.signUp_table {
+   background-color: gray;
+   color: white;
+   font-size:15pt;
+   font-weight:bold;
+}
+
+
+.signUp_table input {
+   width: 300px;
+   height: 30px;
+}
+
+
+.signUp_btn_table {   
+   margin-top: 1%
+}
+
+.signUp_btn {
+   height: 45px;
+   width: 306px;
+   background-color: black;
+   color: white;
+   font-size: 20pt;
+   font-weight: bold;
+   border: solid 1px black;
+   cursor: pointer;
+}
+
+
+
+.content_div_findInfo {
+   background-color: gray;
+   position: relative;
+   width: 1000px;   
+   margin: 10px auto;
+}
+
+
+.findInfo_table {
+   background-color: gray;
+   color: white;
+   font-size:15pt;
+   font-weight:bold;
+}
+
+
+.findInfo_table input {
+   width: 300px;
+   height: 30px;
+}
+
+
+
+.findInfo_btn_table {   
+   margin-top: 1%
+}
+
+
+.findInfo_btn {
+   height: 45px;
+   width: 306px;
+   background-color: black;
+   color: white;
+   font-size: 20pt;
+   font-weight: bold;
+   border: solid 1px black;
+   cursor: pointer;
+}
